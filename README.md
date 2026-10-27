@@ -1,2 +1,0 @@
-# hallocacwin
-ccmm
